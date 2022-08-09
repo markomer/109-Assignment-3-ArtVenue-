@@ -1,3 +1,31 @@
+This project "Art Avenue" was a course project to become familiar
+functional pagination, product selection and calculation, cart page, and product registration with conditions.
+
+
+- Functionalities
+
+The main functionalities are: registering new products with 
+optional coupon codes (local db) selecting from catelog of products
+and choosing no. of each, and cart page summary of product choices.
+
+
+- Technologies used
+
+This is mainly built using javascript with json, react,
+jsx files, html and css, and bootstrap items.
+
+
+- Steps to run the project
+
+Drop file into command terminal after typing cd.
+Hit enter
+Type npm start
+
+
+- images of the project:
+
+https://portfolium.com/entry/art-venue-1
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
